@@ -1,0 +1,10 @@
+when installing git for the first time in your system, you need to configure your email and username
+
+->git config --global user.email "chiaustin61@gmail.com"
+->git config --global user.name "Austin"
+
+*What we run above only happens when you get a new laptop
+
+*When starting a new project,
+
+->git init
